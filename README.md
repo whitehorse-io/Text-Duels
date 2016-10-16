@@ -1,5 +1,5 @@
 # Zodiac-Force
-Repository for my game project.
+Repository for an early text game project.
 
 Coded in Python 3.5.
 
